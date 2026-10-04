@@ -278,10 +278,10 @@ Numbers in this book come from established plasma physics, published literature 
 
 **Book #26 Foundation:** Complete  
 **Part I (Chapters 1–4):** Complete  
-**Part II (Chapters 5–9):** In progress  
-**Part III (Chapters 10–14):** Planned  
-**Part IV (Chapters 15–16):** Planned  
-**Back Matter (Appendices A–G, Glossary):** Planned  
+**Part II (Chapters 5–9):** Complete  
+**Part III (Chapters 10–14):** Complete  
+**Part IV (Chapters 15–16):** Complete  
+**Back Matter (Appendices A–G, Glossary):** Complete  
 
 ---
 

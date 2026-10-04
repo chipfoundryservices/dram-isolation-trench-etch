@@ -46,8 +46,9 @@ CF₄                                                                       loss
 HBr-based chemistry has been the standard for silicon trench and gate etch for decades for three reasons:
 
 ```
-1. Selectivity to oxide. Br atoms do not etch SiO₂ appreciably, and
-   the Si–O bond (≈ 8 eV) is far stronger than Si–Br. Si:SiO₂
+1. Selectivity to oxide. Br atoms do not etch SiO₂ appreciably: the
+   Si–O bond in SiO₂ (≈ 4.6 eV per bond) is much stronger than Si–Br
+   (≈ 3.4 eV), so replacing O with Br is uphill. Si:SiO₂
    selectivity in HBr/O₂ exceeds 100 at low bias and 30–50 at the
    bias needed for a vertical trench.
 
