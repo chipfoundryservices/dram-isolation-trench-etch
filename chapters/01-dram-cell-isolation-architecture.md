@@ -259,7 +259,7 @@ Trench width at depth: S(z) = P − W(z) = S_t − 2 z tan α
   S(250) = 18 − 8.7 = 9.3 nm
 ```
 
-A 0.5° change in sidewall angle changes W(140) by 2.4 nm. That is a 13% change in the fin width and roughly a 10% change in drive current. **The sidewall angle is a transistor parameter.**
+A 0.5° change in sidewall angle changes W(140) by 2.4 nm. That is a 13% change in the fin width, enough to move the gate's control of the fin body, and with it the threshold voltage and the off-state leakage that retention depends on. **The sidewall angle is a transistor parameter.**
 
 ### 1.4.3 Job 3: Passing-Gate Spacing
 
@@ -380,7 +380,7 @@ Periphery depth (≥ 1 µm wide)       300 nm         280–330 nm              
 Periphery depth (60 nm wide)        ≈ 290 nm       ≥ 270 nm                  Peri isolation
 AA top width (post-etch)            14.0 nm        ± 1.0 nm (3σ)             Contacts
 AA width at 140 nm                  18.9 nm        ± 1.5 nm (3σ)             WL saddle fin
-Sidewall angle (from vertical)      1.0°           0.6–1.4°                  WL, fill
+Sidewall angle (from vertical)      1.0°           0.7–1.25°                 WL, fill
 Trench bottom width (cell)          9.3 nm         ≥ 7 nm                    Fill
 Bottom shape                        Rounded        No microtrench, no V      Fill, isolation
 Top-corner radius (after liner)     2–3 nm         ≥ 1.5 nm                  Gate oxide at WL
