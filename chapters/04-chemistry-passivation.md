@@ -314,10 +314,12 @@ Step   Time    p        Source /       Gases (sccm)                Purpose
 BT     8 s     5        500 / 150 CW   CF₄ 80, He 50               Native oxide removal
 STAB   5 s     8        0 / 0          HBr 200, Cl₂ 40, O₂ 6,      Gas exchange; no plasma
                                        He 100
-ME-1   30 s    8        900 / 220      HBr 200, Cl₂ 40, O₂ 6,      Upper trench: rate,
-               (sync. pulsed)          He 100                      verticality below mask
-ME-2   32 s    12       800 / 180      HBr 220, O₂ 8, NF₃ 3,       Lower trench: low ARDE,
-               (sync. pulsed)          He 120                      angle control at depth
+ME-1   30 s    8        900 / 450      HBr 200, Cl₂ 40, O₂ 6,      Upper trench: rate,
+               (sync. pulsed,          He 100                      verticality below mask
+               1 kHz, 50%; peak W)
+ME-2   32 s    12       800 / 380      HBr 220, O₂ 8, NF₃ 3,       Lower trench: low ARDE,
+               (sync. pulsed,          He 120                      angle control at depth
+               1 kHz, 40%; peak W)
 PS     6 s     20       600 / 60       HBr 150, He 150             Bottom rounding;
                                                                    optional, low damage
 ──────────────────────────────────────────────────────────────────────────────────────────
